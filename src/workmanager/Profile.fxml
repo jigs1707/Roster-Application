@@ -26,18 +26,13 @@
          </menus>
       </MenuBar>
       <Label fx:id="cName" layoutX="46.0" layoutY="85.0" prefHeight="25.0" prefWidth="127.0" text="First name " />
-      <Label layoutX="25.0" layoutY="60.0" prefHeight="25.0" prefWidth="127.0" text="Company Name:">
+      <Label layoutX="38.0" layoutY="42.0" prefHeight="25.0" prefWidth="127.0" text="Company Name:">
          <font>
             <Font size="17.0" />
          </font>
       </Label>
       <Label fx:id="cName1" layoutX="47.0" layoutY="197.0" prefHeight="25.0" prefWidth="127.0" text="password" />
       <Label layoutX="47.0" layoutY="167.0" text="user name" />
-      <Label layoutX="38.0" layoutY="240.0" prefHeight="25.0" prefWidth="127.0" text="Company Name:">
-         <font>
-            <Font size="17.0" />
-         </font>
-      </Label>
       <Button layoutX="60.0" layoutY="315.0" mnemonicParsing="false" prefHeight="42.0" prefWidth="137.0" text="Edit " />
       <Label layoutX="46.0" layoutY="126.0" text="Last name " />
       <Label fx:id="cName11" layoutX="129.0" layoutY="197.0" prefHeight="25.0" prefWidth="127.0" text="*******" />
@@ -46,7 +41,7 @@
       <Label fx:id="cName211" layoutX="129.0" layoutY="163.0" prefHeight="25.0" prefWidth="127.0" text="USERNAME " />
       <Label layoutX="38.0" layoutY="270.0" text="DOB" />
       <Label fx:id="cName212" layoutX="121.0" layoutY="266.0" prefHeight="25.0" prefWidth="127.0" text="20" />
-      <Button layoutX="309.0" layoutY="302.0" mnemonicParsing="false" prefHeight="59.0" prefWidth="137.0" text="Request deletion" />
+      <Button layoutX="325.0" layoutY="319.0" mnemonicParsing="false" prefHeight="42.0" prefWidth="121.0" text="Request deletion" />
       <Avatar layoutX="410.0" layoutY="55.0" radius="75.0" />
    </children>
 </AnchorPane>
